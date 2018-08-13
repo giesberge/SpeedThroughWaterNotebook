@@ -1,0 +1,9 @@
+name: STWNotebook
+dependencies:
+   - python=3.6
+   - numpy
+   - scipy
+   - pandas
+   - scikit-learn
+   - jupyter
+   - ipython
